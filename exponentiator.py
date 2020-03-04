@@ -19,3 +19,9 @@ print(square(2))
 
 cube = lambda z : exponentiate(z,3)
 print(cube(2))
+
+print('The print statments can be placed in the following order\n to get the output you desired.')
+
+print(square(2))
+print(cube(2))
+print(raise_to_fourth_power(2))
